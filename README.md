@@ -1,4 +1,5 @@
-# hack_submission
+# hack_submission 2/5/2023
+This is what I submitted to my first hackathon I competed in. 
 
 A new Flutter project.
 
@@ -15,3 +16,12 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 # flutter_app_basic
+You may have an easier time creating a new flutter application in VSCode and then copy-pasting the following files into the files VSCode created of the same name:
+pubspec.yaml
+analysis_options.yaml
+lib/main.dart
+
+#Flutter install tutorial video:
+https://www.youtube.com/watch?v=cVlX64Tr4EU
+
+#hack_submission code walk through video:
