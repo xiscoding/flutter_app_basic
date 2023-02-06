@@ -17,9 +17,9 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 # flutter_app_basic
 You may have an easier time creating a new flutter application in VSCode and then copy-pasting the following files into the files VSCode created of the same name:
-pubspec.yaml
-analysis_options.yaml
-lib/main.dart
+pubspec.yaml<BR>
+analysis_options.yaml<BR>
+lib/main.dart<BR>
 
 #Flutter install tutorial video:
 https://www.youtube.com/watch?v=cVlX64Tr4EU
